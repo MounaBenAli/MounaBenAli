@@ -1,30 +1,6 @@
-### Hi there 👋
-<!--
+### Welcome to my GitHub 👋🌟 
 
-**MounaBenAli/MounaBenAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-Welcome to my GitHub profile, the virtual playground where code comes to life! 
-My name is Mouna, and I'm a code wizard by day and a code ninja by night. 
-I'm on a mission to build awesome stuff that makes the world a better place, one line of code at a time. 
-If you're looking for some electrifying and eccentric code, you've come to the right place! Join me on this wild journey, where you'll find plenty of hacks, workarounds, and unexpected surprises. 
-So, grab your keyboard, buckle up, and let's code this thing!
-
-
-
-
-
-
-
+👨‍💻 **Frontend Developer | ReactJS Specialist**  
+🚀 Building scalable, user-centric web applications in the EdTech space. Passionate about crafting clean, maintainable code with React (JSX/TSX).  
+🎨 Occasionally diving into design with Figma to ensure seamless UI/UX for users.  
+🕹️ Currently developing educational tools, teacher dashboards, and interactive games like Tic Tac Toe & Connect4.  
